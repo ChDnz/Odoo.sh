@@ -1,4 +1,4 @@
-# Odoo.sh
+# Odoo
 First repository
 
 print "Odoo.sh"
